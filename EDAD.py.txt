@@ -1,4 +1,6 @@
+# el día de hoy es 2/12/2022
+
 # esto es mi primer trabajo en git, soy fabio edú garcia rojas
 
-# exameeeeen
+#El examen será en formato de cuestioanrio
 
